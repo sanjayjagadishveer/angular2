@@ -1,0 +1,16 @@
+form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-control
+{
+    display: block;
+    margin-left: 30px;
+}
+.form-group
+{
+    display: flex;
+    margin: 20px;
+}
